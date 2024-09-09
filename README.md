@@ -4,4 +4,10 @@ Meu nome é Thawan Marculino Costa
 
 Estou estudando na Alura
 Estou desenvolvendo linguagem de JavaScript
-Utilizo essse espaço
+Utilizo esse espaço para minha organização e compartilhamento dos meu projeto desenvolvindos 
+
+### Você entrar em contato comigo 📫
+
+00001234636736sp@al.educacao.sp.gov.br
+
+@thawanqx
